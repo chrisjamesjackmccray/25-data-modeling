@@ -152,3 +152,10 @@ Kelley Jones: String - Artist name
 Batman: String - Series
 Superman: String - Series
 Flash - String - Series
+Firestorm - String - series
+
+## writers
+Leslie Ross: string - writer
+Adam Schlagman: string - writer
+Al Zere: string - writer
+Alex Simmons: - writer

@@ -6,7 +6,7 @@ In each section below, you'll have some data described to you. List the models y
 1. item - string - the actual description of what they want to do
 2. completed - boolean - the status of whether it's completed or not
 3. user_id - integer - the id for the user who owns this todo
-4. created_at - datetime - when the todo was created
+4. created_at - date time - when the todo was created
 
 NOTE! For all of these, assume you have a User model that represents the person logged into the website.
 
@@ -22,6 +22,10 @@ You're creating a simple Medium clone where people can write blog posts and comm
 user_id - integer - id of user
 URL - string - address of blog posts
 image - string - image accompanying blog post
+body - string - field that holds the blog post
+title - string - Title of the author 
+
+
 
 ## Comment Model
 user_id - integer - the id of the user
@@ -106,13 +110,6 @@ Lexus - string - manufacturer - Toyota
 ## Generation
 4th gen - integer - 2002-2005
 5th gen - integer - 2005-2008
-
-
-
-
-
-
-
 
 
 

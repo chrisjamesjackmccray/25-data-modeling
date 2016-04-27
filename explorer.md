@@ -23,7 +23,7 @@ user_id - integer - id of user
 URL - string - address of blog posts
 image - string - image accompanying blog post
 body - string - field that holds the blog post
-title - string - Title of the author 
+title - string - Title of the author
 
 
 
